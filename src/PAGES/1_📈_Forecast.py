@@ -24,7 +24,7 @@ lottie_animation_url = "https://lottie.host/89f1f8df-aa47-4771-9441-91da251470e2
 
 #define header
 with header:
-    header.title("Sales Prediction App With Linear Regression ")
+    header.title("Sales Prediction App With Linear Regression Across Favorita Stores")
 
     # Display the Lottie animation using st_lottie
     st_lottie(lottie_animation_url,height=200)
