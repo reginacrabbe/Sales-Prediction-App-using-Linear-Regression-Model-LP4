@@ -24,7 +24,7 @@ data = st.container()
 
 # Set up the data section that users will interact with
 with data:
-    data.title("On this page, you can preview the dataset and view daily sales across stores")
+    data.title("On this page, you can preview the data set and view daily sales across stores")
     st.write("View the Dataset below")
 
     # Button to preview the dataset
