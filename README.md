@@ -134,7 +134,7 @@ The linear regression model in the Sales Forecasting App operates through a seri
 
 |Code|Name of Project|Published Article|Deployed App|
 |:---|:-------------:|:---------------:|-----------:|
-|LP4 |Sales Prediction App |https://medium.com/@rndcrabbe/store-sales-analysis-using-time-series-forecasting-abb2ded07c8d|Medium|
+|LP4 |Sales Prediction App |https://medium.com/@rndcrabbe/sales-forecasting-app-with-streamlit-by-team-cape-cod-716988d5c9e7|Medium|
 
 ## License
 
