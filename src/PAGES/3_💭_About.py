@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit as st
 from PIL import Image
 
-# Display the c title
+# Display the title
 st.title("Learn About Team CapeCod")
 
 ##set team image
@@ -89,8 +89,6 @@ size=(400,400)
 lead_image=lead.resize(size)
 st.image(lead_image)
 st.subheader("Connect with Aliyyah:")
-
-
 
 # Button to send an email
 if st.button("Send Email"):
