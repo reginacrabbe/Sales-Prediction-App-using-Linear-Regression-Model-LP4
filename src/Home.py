@@ -4,7 +4,7 @@ import streamlit as st
 
 # Set page configuration 
 st.set_page_config(
-    page_title="Welcome To Amissah's Time Series App",
+    page_title="Welcome To The Time Series App",
     page_icon="😃",
     layout="wide"
 )
